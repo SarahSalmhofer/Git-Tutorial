@@ -1,2 +1,2 @@
-# Git-Tutorial
-A throwaway rep for a Git tutorial
++
++ Let's learn git basics together!
